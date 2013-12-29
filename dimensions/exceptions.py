@@ -1,0 +1,1 @@
+class DimError( Exception ): pass
